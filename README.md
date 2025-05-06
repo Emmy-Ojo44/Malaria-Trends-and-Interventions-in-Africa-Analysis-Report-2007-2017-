@@ -1,0 +1,2 @@
+# Malaria-Trends-and-Interventions-in-Africa-Analysis-Report-2007-2017-
+This project was conducted to analyze the Malaria trends and Interventions in Africa spanning 10 years from 2007 to 2017. In this project insights on the use of interventions like Antimalaria drugs, Insecticide -Treated Net in children, Intermittent Preventive Therapy in pregnancy were all derived. The insights would help strengthen  malaria mgt. 
